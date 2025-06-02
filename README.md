@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zhongke SUN @Suzuki666
-- 👀 I’m interested in Machine Learning, Statistics, Mathematics
+- 👀 I’m interested in Machine Learning, AI, Statistics, Mathematics
 - 🌱 I’m currently learning Data Sciences at CentraleSupélec
 - 📫 How to reach me: zhongke.sun@student-cs.fr
 
