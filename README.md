@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zhongke SUN @Suzuki666
 - 👀 I’m interested in Machine Learning, AI, Statistics, Mathematics
 - 🌱 I’m currently learning Data Sciences at CentraleSupélec
-- 📫 How to reach me: zhongke.sun@student-cs.fr
+- 📫 How to reach me: sunzhongke130723@outlook.com
 
 <!---
 Suzuki666/Suzuki666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
